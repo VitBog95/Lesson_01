@@ -27,6 +27,3 @@ def test_dynamic_loading():
 
     driver.quit()
     print("✅ Тест пройден успешно!")
-
-
-test_dynamic_loading()
